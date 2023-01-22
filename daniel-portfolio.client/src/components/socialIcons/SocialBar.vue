@@ -88,6 +88,6 @@ i {
 }
 i:hover {
   transform: translateY(-5px);
-  color: rgb(224, 103, 17) !important;
+  color: #e06711 !important;
 }
 </style>

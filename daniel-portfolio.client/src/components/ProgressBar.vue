@@ -14,8 +14,8 @@
       id="progress"
       class=""
     >
-
-    <img src="https://purepng.com/public/uploads/medium/purepng.com-astronautastronautcosmonauttrainedtrainedspaceflightpilotspace-travelersclipart-1421526661352yhacr.png" alt="" width="80" height="90" class="">
+ <img src="https://purepng.com/public/uploads/large/purepng.com-pokemonpokemonpocket-monsterspokemon-franchisefictional-speciesone-pokemonmany-pokemonone-pikachu-1701527784585nseus.png" alt="" width="80" height="90" class="">
+   
 
       <!-- <p class="position-absolute start-0 top-0 font-1 text-success">
         {{ percent }}

@@ -52,8 +52,8 @@ export default {
 @import "./assets/scss/main.scss";
 
 .bg-custom{
-background: rgb(13,11,14);
-background: linear-gradient(180deg, rgba(13,11,14,1) 23%, rgba(23,35,78,1) 33%, rgba(110,17,22,1) 50%, rgba(252,176,69,1) 90%, rgba(102,219,233,1) 98%, rgba(0,0,0,1) 100%);
+background: rgb(201, 95, 28);
+  background: linear-gradient(27deg, rgba(201, 95, 28, 1) 0%, rgba(121, 9, 58, 1) 46%, rgba(0, 0, 0, 1) 85%);
 }
 
 #nav {

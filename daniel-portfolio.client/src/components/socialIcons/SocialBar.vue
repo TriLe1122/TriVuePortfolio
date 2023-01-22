@@ -71,7 +71,7 @@ export default {
 }
 .email:hover {
   transform: rotate(90deg) + translateX(-70px) + translateY(-20px);
-  color: turquoise !important;
+  color: #d26d0e !important;
   transition: all 0.5s ease-out;
 }
 
@@ -88,6 +88,6 @@ i {
 }
 i:hover {
   transform: translateY(-5px);
-  color: turquoise !important;
+  color: rgb(224, 103, 17) !important;
 }
 </style>

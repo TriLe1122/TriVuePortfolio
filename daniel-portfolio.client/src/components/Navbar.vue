@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark  px-3">
     <div class="d-flex me-5">
-      <p class="mb-0 font-1 fs-3 text-light">Daniel Le</p>
+      <p class="mb-0 font-1 fs-3 text-light">Tri Le</p>
       <p class="mb-0 ms-4 font-1 fs-3 text-light">
         Full Stack SoftWare Developer
       </p>
@@ -86,7 +86,7 @@ a:hover {
 .btn:hover {
   transform: scale(1.1);
 
-  color: turquoise !important;
+  color: #d26d0e !important;
 }
 .nav-link {
   text-transform: uppercase;

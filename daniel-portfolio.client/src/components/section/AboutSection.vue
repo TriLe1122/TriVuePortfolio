@@ -1,5 +1,5 @@
 <template>
-  <section id="about" class="about py-5 mt-0 text-light font-1 ">
+  <section id="about" class="about py-5 mt-0 text-light font-1 bg-custom">
     <div class="container">
       <div class="d-flex justify-content-between">
         <div class="section-title display-3">
@@ -125,6 +125,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.bg-custom{
+    background-image: url("../img/pexels.mp4");
+}
 .about-me-text {
   font-size: 1.25rem;
   //when screen is 768px OR LESS
@@ -143,7 +146,7 @@ export default {
   transition: all 0.5s ease;
 }
 .box {
-  background-image: url("https://cdn.discordapp.com/attachments/262286883000811520/1060759843536904233/Daniel_Le.1.jpg");
+background-image: url("../../assets/img/trile.jpg");
   border: solid black;
   border-color: black;
   background-position: center;
@@ -173,7 +176,7 @@ export default {
   border-radius: 1rem;
   background-position: center;
   background-size: cover;
-  background: url("https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png");
+  background: url("https://images.unsplash.com/photo-1573676564862-0e57e7eef951?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
   //when screen is 768px OR LESS
   @media only screen and (max-width: 768px) {

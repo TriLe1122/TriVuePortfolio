@@ -9,7 +9,7 @@
     >
       <video
 
-        src="../../assets/img/spacemanFull.mp4"
+        src="../../assets/img/pexels.mp4"
         width="200" height="1004" object-fit="cover"
         loop
         muted

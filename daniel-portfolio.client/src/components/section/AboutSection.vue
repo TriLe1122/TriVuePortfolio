@@ -176,7 +176,7 @@ background-image: url("../../assets/img/trile.jpg");
   border-radius: 1rem;
   background-position: center;
   background-size: cover;
-  background: url("https://images.unsplash.com/photo-1573676564862-0e57e7eef951?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+  background: url("https://images.pexels.com/photos/8482473/pexels-photo-8482473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
   //when screen is 768px OR LESS
   @media only screen and (max-width: 768px) {

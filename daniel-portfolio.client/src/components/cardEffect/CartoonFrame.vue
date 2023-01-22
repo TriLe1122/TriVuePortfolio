@@ -27,8 +27,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
-
 .image-card::before {
   content: "";
   border-radius: 1rem;
@@ -37,7 +35,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png");
+  background-image: url("https://images.pexels.com/photos/8482473/pexels-photo-8482473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   filter: brightness(78%);
   background-position: center;
   background-size: cover !important;
@@ -49,7 +47,7 @@ export default {
   padding: 8px;
   border-radius: 1rem;
 
-  background: url("https://w.wallhaven.cc/full/xl/wallhaven-xl77vl.jpg");
+  background: url("https://images.pexels.com/photos/8482473/pexels-photo-8482473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   background-position: center;
   background-size: cover !important;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
@@ -72,6 +70,5 @@ export default {
     0 6px 20px 0 #f7d778;
 
 }
-
 </style>
 <!-- test -->

@@ -10,11 +10,11 @@
         class="col-1 text-center d-flex justify-content-center align-items-center"
       >
         <a
-          href="mailto:daniel97.le@gmail.com"
+          href="mailto:letrin93@gmail.com"
           target="_blank"
           class="email font-1 fs-3 text-light"
         >
-          daniel97.le@gmail.com
+          letrin93@gmail.com
         </a>
       </div>
     </div>

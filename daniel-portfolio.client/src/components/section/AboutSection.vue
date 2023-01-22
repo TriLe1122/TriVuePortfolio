@@ -30,58 +30,48 @@
             :delay="300"
             class="px-md-5 font-2 text-start about-me-text long-paragraph"
           >
-            Hi, my name is Daniel Le and I am a full stack developer. I am
-            highly skilled in problem solving and critical thinking, with a
-            strong foundation in both front and back end development with a love
-            of finding creative solutions to complex problems.
+            I am Tri Le, a full stack developer with a demonstrated ability in problem-solving and critical thinking. I possess a
+            solid foundation in both front and back-end development, and have a passion for discovering unique solutions to
+            intricate issues.
+            
             <br />
-            As a developer, I am fascinated by dev ops and programming
-            architecture, and I enjoy researching documentation and exploring
-            open source software in my free time. I am a problem solver at heart
-            and am passionate about creating functional and smooth websites and
-            apps that deliver solid performance.
+            I am captivated by the intricacies of development and the design of programming architecture, often spending my leisure time
+            investigating documentation and delving into open-source software. With a natural inclination towards problem-solving
+            and a fervent desire to create seamless websites and applications with exceptional performance.
+
             <br />
-            I have a strong foundation in back end development and am skilled in
-            technologies such as Node.js, Express, and SQL. I am always eager to
-            learn and grow as a developer, and I take pride in my ability to
-            adapt and learn new technologies quickly.
+            I have a robust background in back-end development and am proficient in utilizing technologies such as Node.js, Express,
+            and SQL. I have a constant eagerness to learn and advance as a developer, and take pride in my ability to quickly adapt
+            and acquire new technologies.
             <br />
-            I believe that great software is built on a foundation of clear
-            communication and collaboration, and I strive to work with my team
-            members to create the best possible product. Thank you for taking
-            the time to read a little about me. I look forward to the
-            opportunity to work with you and contribute my skills and expertise
-            to your project.
+            I am a strong advocate that excellent software is constructed on a foundation of transparent communication and
+            collaboration. I am committed to working with my team to achieve the highest quality outcome. I appreciate you taking
+            the time to learn more about me. I eagerly anticipate the chance to collaborate with you and apply my skills and
+            knowledge to your project.
           </p>
         </div>
       </div>
 
       <div class="row my-5 justify-content-center">
         <div class="col-md-6 text-center">
-          <p class="font-1 fs-4 text-warning">Current Favorite Song</p>
-          <iframe
-            style="border-radius: 12px"
-            src="https://open.spotify.com/embed/track/7MZM9KhwGQG8QJ4BycsnQn?utm_source=generator"
-            width="100%"
-            height="152"
-            frameBorder="0"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy"
-          ></iframe>
+          <p class="font-1 fs-4 text-warning">Favorite playlist to code to</p>
+          <iframe style="border-radius:12px"
+            src="https://open.spotify.com/embed/playlist/4ANPW38qMEYQ3Z1mVLrtmm?utm_source=generator&theme=0" width="100%"
+            height="352" frameBorder="0" allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
         <div class="col-md-6 text-center">
-          <p class="font-1 fs-4 text-warning">Creatures I'd die for</p>
+          <p class="font-1 fs-4 text-warning">Hobbies and Passions</p>
           <div class="d-md-flex justify-content-around p-2">
             <img
-              src="../../assets/img/Coco.png"
+              src="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Magic_the_gathering-card_back.jpg/220px-Magic_the_gathering-card_back.jpg"
               alt=""
               width="240"
               height="240"
               class="elevation-6 rounded mb-2 mb-md-0"
             />
             <img
-              src="../../assets/img/Goblin.png"
+              src="https://d99q83nas8cxh.cloudfront.net/wp-content/uploads/2019/02/the-base-mural-dark-nontransparent.png"
               alt=""
               width="240"
               height="240"

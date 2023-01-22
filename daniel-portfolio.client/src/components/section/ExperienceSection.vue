@@ -37,8 +37,8 @@
          -->
         <div class="card-1">
 
-  <img src="https://avatars.githubusercontent.com/u/94322600?s=280&v=4" alt="Front image" class="front-image">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbcw.blob.core.windows.net%2Fpublic%2Fimg%2F8600856373152463&f=1&nofb=1&ipt=7556aa255fdb3f0a77caa1be29b0f23e5f3d403a76f098fca104b1911e9c485b&ipo=images" alt="Back image" class="back-image" width="175" height="175">
+  <!-- <img src="https://avatars.githubusercontent.com/u/94322600?s=280&v=4" alt="Front image" class="front-image"> -->
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbcw.blob.core.windows.net%2Fpublic%2Fimg%2F8600856373152463&f=1&nofb=1&ipt=7556aa255fdb3f0a77caa1be29b0f23e5f3d403a76f098fca104b1911e9c485b&ipo=images" alt="Back image" class="back-image" width="500" height="500">
 </div>
 
         </div>
@@ -49,7 +49,7 @@
             :delay="300"
             class="font-2 text-light darken-10 fw-bold"
           >
-            FULL STACK SOFTWARE DEVELOPMENT CERTIFICATION,
+            FULL STACK SOFTWARE DEVELOPMENT CERTIFICATION
           </p>
           <p
             v-motion-slide-visible-once-bottom
@@ -63,9 +63,15 @@
             :delay="300"
             class="font-2 text-light"
           >
-            An immersive full stack software development program that provided
-            over 500 hours of coding experience across multiple technology
-            stacks.
+          <ul>
+            <li>Acquired more than 500 hours of hands-on coding experience and discussions, encompassing a variety of industry-standard
+            technologies and methodologies</li>
+            <li>Developed a comprehensive understanding of REST API design patterns and implemented OOP practices, adhering to the MVC
+            pattern</li>
+            <li>Utilized web-based tools such as Trello and Figma</li>
+            <li>Created full-stack applications using Vue.js, Node.js, C#, and .Net</li>
+            <li>Familiarity with MongoDb, SQL, and Auth0 for database management, authentication, and security.</li>
+          </ul>
           </p>
         </div>
       </div>
@@ -142,9 +148,9 @@
         </div>
         <div class="col-md-6 d-flex justify-content-center my-3 my-md-0">
           <div
-            class="rounded-circle bg-light text-center devsopportunities-image elevation-6"
+            class="rounded-circle mt-3 bg-light text-center devsopportunities-image elevation-6"
           >
-            <img src="../../assets/img/LLCLogo.png" alt="LLC Logo" />
+            <img src="../../assets/img/LLCLogo.png" class="" alt="LLC Logo" />
           </div>
         </div>
         <div class="col-md-6">
@@ -202,7 +208,7 @@
       <!-- SECTION DEVSOPPORTUNITIES -->
 
       <!-- SECTION CURRENTLY LEARNING -->
-      <div class="row my-5 gy-3">
+      <!-- <div class="row my-5 gy-3">
         <div class="section-title">
           <p class="font-1 text-warning fs-2">Currently Learning</p>
         </div>
@@ -249,7 +255,7 @@ I am excited to continue learning and to explore the ways in which they can help
 
           </p>
         </div>
-      </div>
+      </div> -->
       <!-- !SECTION CURRENTLY LEARNING -->
     </div>
   </section>
@@ -364,15 +370,15 @@ export default {
 
 
 
-.card-1:hover img.front-image {
-  opacity: 1;
-  transform: rotateY(180deg);
-}
+// .card-1:hover img.front-image {
+//   opacity: 1;
+//   transform: rotateY(180deg);
+// }
 
-.card-1:hover img.back-image {
-  opacity: 0;
-  transform: rotateY(0deg);
-}
+// .card-1:hover img.back-image {
+//   opacity: 0;
+//   transform: rotateY(0deg);
+// }
 
 
 
@@ -430,11 +436,11 @@ li + li {
 }
 
 .devsopportunities-image {
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
   img {
-    height: 200px;
-    width: 200px;
+    height: 500px;
+    width: 500px;
   }
 }
 

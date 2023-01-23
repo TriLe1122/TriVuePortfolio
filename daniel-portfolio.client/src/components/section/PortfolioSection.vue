@@ -340,6 +340,7 @@
                 :delay="600"
                 href="https://thetower-f4he.onrender.com"
                 class="mb-2"
+                target="_blank"
                 ><img
                   src="https://cdn-icons-png.flaticon.com/512/3971/3971765.png"
                   alt="external Link"

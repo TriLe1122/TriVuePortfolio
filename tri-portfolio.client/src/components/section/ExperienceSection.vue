@@ -35,10 +35,10 @@
               /></div
           >
          -->
-        <div class="card-1">
+        <div class="bcw">
 
   <!-- <img src="https://avatars.githubusercontent.com/u/94322600?s=280&v=4" alt="Front image" class="front-image"> -->
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbcw.blob.core.windows.net%2Fpublic%2Fimg%2F8600856373152463&f=1&nofb=1&ipt=7556aa255fdb3f0a77caa1be29b0f23e5f3d403a76f098fca104b1911e9c485b&ipo=images" alt="Back image" class="back-image" width="500" height="500">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbcw.blob.core.windows.net%2Fpublic%2Fimg%2F8600856373152463&f=1&nofb=1&ipt=7556aa255fdb3f0a77caa1be29b0f23e5f3d403a76f098fca104b1911e9c485b&ipo=images" alt="Back image" class="back-image" >
 </div>
 
         </div>
@@ -350,9 +350,6 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-
-
-
 .card-1 {
   perspective: 1000px;
   position: relative;
@@ -435,12 +432,23 @@ li + li {
   border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+.bcw{
+  height: 34rem;
+    width: 34rem;
+  
+    img {
+      height: 34rem;
+      width: 34rem;
+    }
+}
+
+
 .devsopportunities-image {
-  height: 500px;
-  width: 500px;
+  height: 34rem;
+  width: 34rem;
   img {
-    height: 500px;
-    width: 500px;
+    height: 34rem;
+    width: 34rem;
   }
 }
 
@@ -472,5 +480,27 @@ li + li {
   img:hover {
     transform: rotate(8deg);
   }
+}
+
+@media only screen and (max-width: 768px) {
+.devsopportunities-image {
+    height: 20rem;
+    width: 20rem;
+
+    img {
+      height: 20rem;
+      width: 20rem;
+    }
+  }
+
+    .bcw {
+      height: 20rem;
+      width: 20rem;
+  
+      img {
+        height: 20rem;
+        width: 20rem;
+      }
+    }
 }
 </style>

@@ -33,17 +33,16 @@
             I am Tri Le, a full stack developer with a demonstrated ability in problem-solving and critical thinking. I possess a
             solid foundation in both front and back-end development, and have a passion for discovering unique solutions to
             intricate issues.
-            
-            <br />
-            I am captivated by the intricacies of development and the design of programming architecture, often spending my leisure time
-            investigating documentation and delving into open-source software. With a natural inclination towards problem-solving
+
+            <br/>
+            I am captivated by the intricacies of development and the design of programming architecture with a natural inclination towards problem-solving
             and a fervent desire to create seamless websites and applications with exceptional performance.
 
-            <br />
-            I have a robust background in back-end development and am proficient in utilizing technologies such as Node.js, Express,
+            <br/>
+            I have a passion for back-end development and am proficient in utilizing technologies such as Node.js, Express,
             and SQL. I have a constant eagerness to learn and advance as a developer, and take pride in my ability to quickly adapt
             and acquire new technologies.
-            <br />
+            <br/>
             I am a strong advocate that excellent software is constructed on a foundation of transparent communication and
             collaboration. I am committed to working with my team to achieve the highest quality outcome. I appreciate you taking
             the time to learn more about me. I eagerly anticipate the chance to collaborate with you and apply my skills and

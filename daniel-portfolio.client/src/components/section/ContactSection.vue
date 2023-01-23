@@ -10,9 +10,9 @@
       <div class="row justify-content-center">
         <div class="col-md-8 text-center">
 
-          <p class="font-2 fs-5 text-light ">
+          <!-- <p class="font-2 fs-5 text-light ">
              I'm open to hire and looking for new opportunities to contribute to a worthwhile vision. The best way to get in touch with me is by phone, so don't hesitate to give me a call. I look forward to discussing how we can work together!
-          </p>
+          </p> -->
         </div>
         <div class="col-md-6 d-flex justify-content-around">
           <a href="mailto:letrin93e@gmail.com" target="_blank"><button class="btn bg-transparent fs-1 font-1 ">

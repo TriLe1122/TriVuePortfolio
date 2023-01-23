@@ -77,7 +77,7 @@ export default {
     }
 
     .flower-spinner .smaller-dot {
-      background: #ff1d5e;
+      background: #e3dde3;
       height: 100%;
       width: 100%;
       border-radius: 50%;
@@ -86,7 +86,7 @@ export default {
     }
 
     .flower-spinner .bigger-dot {
-      background: #ff1d5e;
+      background: #f4f0f4;
       height: 100%;
       width: 100%;
       padding: 10%;
@@ -96,14 +96,16 @@ export default {
 
     @keyframes flower-spinner-bigger-dot-animation {
       0%, 100% {
-        box-shadow: rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px;
+        box-shadow: rgb(201,
+          95,
+          28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px;
       }
 
       50% {
@@ -111,61 +113,61 @@ export default {
       }
 
       25%, 75% {
-        box-shadow: rgb(255, 29, 94) 26px 0px 0px,
-        rgb(255, 29, 94) -26px 0px 0px,
-        rgb(255, 29, 94) 0px 26px 0px,
-        rgb(255, 29, 94) 0px -26px 0px,
-        rgb(255, 29, 94) 19px -19px 0px,
-        rgb(255, 29, 94) 19px 19px 0px,
-        rgb(255, 29, 94) -19px -19px 0px,
-        rgb(255, 29, 94) -19px 19px 0px;
+        box-shadow: rgb(201, 95, 28) 26px 0px 0px,
+        rgb(201, 95, 28) -26px 0px 0px,
+        rgb(201, 95, 28) 0px 26px 0px,
+        rgb(201, 95, 28) 0px -26px 0px,
+        rgb(201, 95, 28) 19px -19px 0px,
+        rgb(201, 95, 28) 19px 19px 0px,
+        rgb(201, 95, 28) -19px -19px 0px,
+        rgb(201, 95, 28) -19px 19px 0px;
       }
 
       100% {
         transform: rotate(360deg);
-        box-shadow: rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px;
+        box-shadow: rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px;
       }
     }
 
     @keyframes flower-spinner-smaller-dot-animation {
       0%, 100% {
-        box-shadow: rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px;
+        box-shadow: rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px;
       }
 
       25%, 75% {
-        box-shadow: rgb(255, 29, 94) 14px 0px 0px,
-        rgb(255, 29, 94) -14px 0px 0px,
-        rgb(255, 29, 94) 0px 14px 0px,
-        rgb(255, 29, 94) 0px -14px 0px,
-        rgb(255, 29, 94) 10px -10px 0px,
-        rgb(255, 29, 94) 10px 10px 0px,
-        rgb(255, 29, 94) -10px -10px 0px,
-        rgb(255, 29, 94) -10px 10px 0px;
+        box-shadow: rgb(201, 95, 28) 14px 0px 0px,
+        rgb(201, 95, 28) -14px 0px 0px,
+        rgb(201, 95, 28) 0px 14px 0px,
+        rgb(201, 95, 28) 0px -14px 0px,
+        rgb(201, 95, 28) 10px -10px 0px,
+        rgb(201, 95, 28) 10px 10px 0px,
+        rgb(201, 95, 28) -10px -10px 0px,
+        rgb(201, 95, 28) -10px 10px 0px;
       }
 
       100% {
-        box-shadow: rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px,
-        rgb(255, 29, 94) 0px 0px 0px;
+        box-shadow: rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px,
+        rgb(201, 95, 28) 0px 0px 0px;
       }
     }
 

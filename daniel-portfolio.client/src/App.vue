@@ -53,7 +53,7 @@ export default {
 
 .bg-custom{
 background: rgb(201, 95, 28);
-  background: linear-gradient(27deg, rgba(201, 95, 28, 1) 0%, rgba(121, 9, 58, 1) 46%, rgba(0, 0, 0, 1) 85%);
+  background: linear-gradient(27deg, rgba(201, 95, 28, 1) 0%, rgba(121, 9, 58, 1) 46%, rgb(10, 10, 10) 85%);
 // background-image: url("https://www.pixel4k.com/wp-content/uploads/2020/01/burning-colours-abstract-4k-a3-3840x2160-1.jpg");
 // background-size: contain;
 // background-attachment: fixed;

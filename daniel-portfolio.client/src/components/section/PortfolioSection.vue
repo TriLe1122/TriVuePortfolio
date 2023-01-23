@@ -41,6 +41,7 @@
                 v-motion-slide-visible-once-bottom
                 :delay="600"
                 href="https://www.samadhiyogaidaho.com/#/"
+                target="_blank"
                 class="mb-2"
                 ><img
                   src="https://cdn-icons-png.flaticon.com/512/3971/3971765.png"

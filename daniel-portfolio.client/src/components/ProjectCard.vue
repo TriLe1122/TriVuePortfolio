@@ -55,7 +55,7 @@
       <div class="d-flex justify-content-between">
         <div class="d-flex align-items-center">
           <GitHubIcon v-motion-slide-visible-once-bottom :delay="100" />
-          <a
+          <!-- <a
             v-motion-slide-visible-once-bottom
             :delay="600"
             href=""
@@ -67,7 +67,7 @@
               width="30"
               height="30"
             />
-          </a>
+          </a> -->
         </div>
       </div>
       <div class="">

@@ -1,6 +1,6 @@
 import { Pop } from "./Pop.js"
 
-const APP_NAME = "daniel-portfolio"
+const APP_NAME = "tri-portfolio"
 
 export function saveState(key, value) {
   try {

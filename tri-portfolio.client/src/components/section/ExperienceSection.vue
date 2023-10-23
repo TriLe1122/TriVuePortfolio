@@ -123,11 +123,13 @@
             :type="s.type"
             :key="s.id"
           >
-            <ParallaxMouse>
+
+                 <img class="img-fluid  " width="60" height="60" :src="s.src" :title="s.title" />
+            <!-- <ParallaxMouse>
               <CartoonFrame v-motion-roll-visible-once-left>
                 <img class="img-fluid box3 box" :src="s.src" :title="s.title" />
               </CartoonFrame>
-            </ParallaxMouse>
+            </ParallaxMouse> -->
           </div>
         </div>
         <div

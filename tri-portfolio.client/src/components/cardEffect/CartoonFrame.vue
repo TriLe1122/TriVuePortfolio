@@ -43,6 +43,7 @@ export default {
   //when screen is 768px OR LESS
 
 }
+
 .image-card {
   transition: all 0.5s ease;
   padding: 8px;
@@ -69,7 +70,6 @@ export default {
   filter: brightness(120%);
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
     0 6px 20px 0 #f7d778;
-
 }
 </style>
 <!-- test -->

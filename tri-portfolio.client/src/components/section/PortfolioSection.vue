@@ -436,7 +436,7 @@
     <div class="container mt-6" >
 
       <!-- SECTION LLC PROJECTS -->
-      <div id="devProjects" class="row g-3 my-5">
+      <!-- <div id="devProjects" class="row g-3 my-5">
         <div
           class="col-md-12 text-center d-flex align-items-center justify-content-center"
         >
@@ -453,7 +453,7 @@
         <div  class="col-md-6 test" v-for="d in devProjects">
           <ProjectCard :project="d" />
         </div>
-      </div>
+      </div> -->
       <!-- !SECTION LLC PROJECTS -->
     </div>
   </section>

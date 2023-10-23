@@ -4,7 +4,7 @@
   <div
     class="container-fluid position-relative text-center d-flex flex-column justify-content-center align-items-center hero-image">
     <div class="video-container position-absolute d-flex justify-content-center">
-      <video src="../../assets/img/pexels.mp4" width="200" height="1004" object-fit="cover" loop muted autoplay
+      <video src="../../assets/img/pexstripes.mp4" width="200" height="1004" object-fit="cover" loop muted autoplay
         class="object-fit"></video>
 
     </div>
@@ -25,7 +25,7 @@
         </div>
         <div id="heroText" class="col-md-6 text-end text-light mt-5">
           <p v-motion-slide-bottom :delay="600" class="display-6 font-1 mb-0 text-shadow text-light">
-            Willing To 
+            Willing To
           </p>
           <p v-motion-slide-bottom :delay="600" class="display-1 font-1 mb-0 text-shadow">
             Help Others

@@ -83,7 +83,7 @@
           <p class="font-1 text-warning fs-2">Languages & Technologies</p>
         </div>
         <div class="col-md-12">
-          <ul class="d-md-flex justify-content-between gap-5 g-5">
+          <!-- <ul class="d-md-flex justify-content-between gap-5 g-5">
             <li
               class="list-group-item font-2 fs-5 filter-button active  selectable rounded"
               @click="filterImages('reset', $event)"
@@ -114,7 +114,7 @@
             >
               Databases
             </li>
-          </ul>
+          </ul> -->
         </div>
         <div class="image-container row g-3 justify-content-center">
           <div
@@ -431,22 +431,22 @@ li + li {
 }
 
 .bcw{
-  height: 34rem;
-    width: 34rem;
+  height: 20rem;
+    width: 20rem;
 
     img {
-      height: 34rem;
-      width: 34rem;
+      height: 20rem;
+      width: 20rem;
     }
 }
 
 
 .devsopportunities-image {
-  height: 34rem;
-  width: 34rem;
+  height: 20rem;
+  width: 20rem;
   img {
-    height: 34rem;
-    width: 34rem;
+    height: 20rem;
+    width: 20rem;
   }
 }
 

@@ -36,7 +36,7 @@ export default {
   width: 100%;
   height: 100%;
   // background-image: url("https://images.pexels.com/photos/8482473/pexels-photo-8482473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-image: url("https://media4.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif?cid=ecf05e47fa6ifvzskbadjnmw5ejox6ihyzuuga7shom3snof&rid=giphy.gif&ct=g");
+  // background-image: url("https://media4.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif?cid=ecf05e47fa6ifvzskbadjnmw5ejox6ihyzuuga7shom3snof&rid=giphy.gif&ct=g");
   filter: brightness(78%);
   background-position: center;
   background-size: cover !important;
@@ -47,7 +47,7 @@ export default {
   transition: all 0.5s ease;
   padding: 8px;
   border-radius: 1rem;
-background-image: url("https://media4.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif?cid=ecf05e47fa6ifvzskbadjnmw5ejox6ihyzuuga7shom3snof&rid=giphy.gif&ct=g");
+// background-image: url("https://media4.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif?cid=ecf05e47fa6ifvzskbadjnmw5ejox6ihyzuuga7shom3snof&rid=giphy.gif&ct=g");
   // background: url("https://images.pexels.com/photos/8482473/pexels-photo-8482473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   background-position: center;
   background-size: cover !important;

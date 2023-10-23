@@ -82,10 +82,6 @@
         <div class="col-md-12">
           <p class="font-1 text-warning fs-2">Languages & Technologies</p>
         </div>
-
-
-
-
         <div class="col-md-12">
           <ul class="d-md-flex justify-content-between gap-5 g-5">
             <li
@@ -435,7 +431,7 @@ li + li {
 .bcw{
   height: 34rem;
     width: 34rem;
-  
+
     img {
       height: 34rem;
       width: 34rem;
@@ -496,7 +492,7 @@ li + li {
     .bcw {
       height: 20rem;
       width: 20rem;
-  
+
       img {
         height: 20rem;
         width: 20rem;
